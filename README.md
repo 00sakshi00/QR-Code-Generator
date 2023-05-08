@@ -1,1 +1,1 @@
-# QR-Code-Generator
+[qrcode](https://www.npmjs.com/package/qrcode)
